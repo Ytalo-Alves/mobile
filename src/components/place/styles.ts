@@ -29,7 +29,7 @@ export const s = StyleSheet.create({
     color: colors.gray[600],
   },
   description: {
-    fontSize: 12,
+    fontSize: 13,
     fontFamily: fontFamily.medium,
     color: colors.gray[500],
   },
